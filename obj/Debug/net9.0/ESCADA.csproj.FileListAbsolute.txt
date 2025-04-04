@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Escada\ESCADA\bin\Debug\net9.0\ESCADA.exe
+C:\Users\user\Documents\Escada\ESCADA\bin\Debug\net9.0\ESCADA.deps.json
+C:\Users\user\Documents\Escada\ESCADA\bin\Debug\net9.0\ESCADA.runtimeconfig.json
+C:\Users\user\Documents\Escada\ESCADA\bin\Debug\net9.0\ESCADA.dll
+C:\Users\user\Documents\Escada\ESCADA\bin\Debug\net9.0\ESCADA.pdb
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.AssemblyInfo.cs
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.sourcelink.json
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.dll
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\refint\ESCADA.dll
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.pdb
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ESCADA.genruntimeconfig.cache
+C:\Users\user\Documents\Escada\ESCADA\obj\Debug\net9.0\ref\ESCADA.dll
